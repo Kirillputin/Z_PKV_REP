@@ -15,15 +15,6 @@ WRITE 'hhhh'.
 WRITE 'hhhh'.
 *****
 WRITE 'hhhh'.
-*****
-WRITE 'hhhh'.
-*****
-WRITE 'hhhh'.
-*****
-WRITE 'hhhh'.
-*****
-WRITE 'hhhh'.
-*****
-WRITE 'hhhh'.
-*****
-WRITE 'hhhh'.
+
+****WRITE 'hhhh'.WRITE 'hhhh'.WRITE 'hhhh'.WRITE 'hhhh'.WRITE 'hhhh'.
+****WRITE 'hhhh'.WRITE 'hhhh'.WRITE 'hhhh'.WRITE 'hhhh'.WRITE 'hhhh'.
