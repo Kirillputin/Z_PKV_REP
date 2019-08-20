@@ -1,11 +1,11 @@
-class Z_PKV_CLASS_REP definition
-  public
-  final
-  create public .
+CLASS z_pkv_class_rep DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
 
-public section.
-protected section.
-private section.
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
 ENDCLASS.
 
 
