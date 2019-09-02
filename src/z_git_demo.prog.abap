@@ -25,10 +25,6 @@ START-OF-SELECTION.
   wa_fieldcat-seltext_m  = 'Airline'.
   APPEND wa_fieldcat TO it_fieldcat.
 
-  wa_fieldcat-fieldname  = 'CONNID'.
-  wa_fieldcat-seltext_m  = 'Con. No.'.
-  APPEND wa_fieldcat TO it_fieldcat.
-
   wa_fieldcat-fieldname  = 'FLDATE'.
   wa_fieldcat-seltext_m  = 'Date'.
   APPEND wa_fieldcat TO it_fieldcat.
@@ -38,7 +34,7 @@ START-OF-SELECTION.
   APPEND wa_fieldcat TO it_fieldcat.
 
   wa_fieldcat-fieldname  = 'PASSNAME'.
-  wa_fieldcat-seltext_m  = 'Passenger Name'.
+  wa_fieldcat-seltext_m  = 'ФИО пассажира'.
   APPEND wa_fieldcat TO it_fieldcat.
 
 *Pass data and field catalog to ALV function module to display ALV list
